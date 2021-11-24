@@ -1,0 +1,8 @@
+{"textInfos":[
+    {"key":"name","content":"Cake"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A strawberry cake."},
+
+    {"key":"isBugText2","content":"Not a Bug"},
+    {"key":"description2","content":"A strawberry cake. Eating one increases my weight by 2 pounds."}
+]}

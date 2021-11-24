@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"Fish"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A fish flying in the air."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"A fish flying in the air. Yes."},
+
+    {"key":"name2","content":"Cloud"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A white thing floating in the air."}
+]}

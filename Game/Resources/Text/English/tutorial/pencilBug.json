@@ -1,0 +1,11 @@
+{"textInfos":[
+    {"key":"name","content":"Pencil"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A pencil."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"A pencil that looks... weird..."},
+
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A pencil. Humans use it to write stuffs on paper."}
+]}

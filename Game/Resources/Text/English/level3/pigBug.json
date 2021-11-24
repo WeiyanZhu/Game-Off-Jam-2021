@@ -1,0 +1,16 @@
+{"textInfos":[
+    {"key":"name","content":"Pig"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A pig."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"An alive pig, who should not exist in this kitchen. They are begging for my mercy."},
+
+    {"key":"name2","content":"Pork"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A pile of pork on the gorund. Materials for sausage, fried pork chop, Korean BBQ and many others."},
+
+    {"key":"killButton","content":"Kill"},
+    {"key":"beggingDialogue","content":"Please don't kill me. I haven't hurted anyone."},
+    {"key":"thankDialogue","content":"Thank you."}
+]}

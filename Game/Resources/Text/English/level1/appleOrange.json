@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"Apple?Orange?"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"Looks like apple, but it is orange."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"We can make it an apple by changing the color."},
+
+    {"key":"name2","content":"Apple"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"An apple."}
+]}

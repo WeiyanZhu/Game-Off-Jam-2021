@@ -1,0 +1,14 @@
+{"textInfos":[
+    {"key":"AButton","content":"A"},
+    {"key":"DButton","content":"D"},
+    {"key":"moveDescription","content":"to Move"},
+
+    {"key":"spaceButton","content":"SPACE"},
+    {"key":"flyDescription","content":"to Fly"},
+
+    {"key":"checkInfoDescription","content":"to Check Objects' Info"},
+
+    {"key":"testDescription","content":"to Shoot Testing Bullet and Find Bugs"},
+
+    {"key":"portalDescription","content":"Fix All Bugs to Get to Next Level"}
+]}

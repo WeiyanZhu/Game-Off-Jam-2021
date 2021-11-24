@@ -1,0 +1,14 @@
+{"textInfos":[
+    {"key":"remainingBug","content":"Remaining Bugs:"},
+    {"key":"activated","content":"Ready to Use"},
+
+    {"key":"name","content":"Portal"},
+    {"key":"isBugText","content":"It Best Not Be Buggy"},
+    {"key":"description","content":"A portal that brings me to the next level. I need to fixing bugs in this level first though."},
+
+    {"key":"isBugText2","content":"It Best Not Be Buggy"},
+    {"key":"description2","content":"A portal that brings me to the next level. I can use it now."},
+
+    {"key":"useButton","content":"Use"},
+    {"key":"hackButton","content":"Hack"}
+]}

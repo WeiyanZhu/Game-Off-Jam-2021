@@ -1,0 +1,11 @@
+{"textInfos":[
+    {"key":"name","content":"Meat"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A piece of meat."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"A piece of pork. The color looks weird."},
+
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A piece of pork. I wonder where it comes from."}
+]}

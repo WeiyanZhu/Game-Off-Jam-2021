@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"Weird Turtle"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A turtle. It has two heads."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"A interesting turtle that looks different from any other turtles, but having two heads is not allowed."},
+    
+    {"key":"name2","content":"Stone"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A turtle. It is boring, but normal."}
+]}

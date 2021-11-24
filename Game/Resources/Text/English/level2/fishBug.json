@@ -1,0 +1,11 @@
+{"textInfos":[
+    {"key":"name","content":"Fish"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A fish swimming in the water."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"A fish swimming in the water. Its animation plays too fast."},
+    
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A fish swimming in the water. One of the materials for fried fish sandwich."}
+]}

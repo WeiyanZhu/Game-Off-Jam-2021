@@ -1,0 +1,8 @@
+{"textInfos":[
+    {"key":"name","content":"Apple"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"An apple."},
+
+    {"key":"isBugText2","content":"Not a Bug"},
+    {"key":"description2","content":"Yes, an apple."}
+]}

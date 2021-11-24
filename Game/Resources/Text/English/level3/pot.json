@@ -1,0 +1,10 @@
+{"textInfos":[
+    {"key":"name","content":"Pot"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A pot."},
+
+    {"key":"isBugText2","content":"Not a Bug"},
+    {"key":"description2","content":"A pot. Used to cook stuffs."},
+
+    {"key":"cookButton","content":"Cook"}
+]}

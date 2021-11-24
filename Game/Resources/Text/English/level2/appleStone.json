@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"Happy Apple"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"An apple. It is smiling at me."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"I have seen this suspicious apple somewhere before."},
+    
+    {"key":"name2","content":"Stone"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A lonely stone under the sea. It is not smiling."}
+]}

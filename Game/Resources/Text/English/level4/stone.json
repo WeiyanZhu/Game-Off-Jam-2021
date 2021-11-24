@@ -1,0 +1,8 @@
+{"textInfos":[
+    {"key":"name","content":"Stone"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A stone."},
+
+    {"key":"isBugText2","content":"Not a Bug?"},
+    {"key":"description2","content":"I think this stone looks wrong, but no one else agrees with me."}
+]}

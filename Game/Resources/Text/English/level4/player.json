@@ -1,0 +1,10 @@
+{"textInfos":[
+    {"key":"name","content":"Bugger"},
+    {"key":"isBugText","content":"I Cannot Be Buggy?"},
+    {"key":"description","content":"Automatic debugger created by the game dev. Working tirelessly fixing bugs and do not need payment."},
+
+    {"key":"isBugText2","content":"Bug?"},
+    {"key":"description2","content":"Why am I considered a bug now? I am completly normal. Everyone else is wrong."},
+
+    {"key":"deleteButton","content":"Delete"}
+]}

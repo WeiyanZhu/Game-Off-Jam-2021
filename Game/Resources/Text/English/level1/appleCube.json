@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"Red Cube"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"An red cube."},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"I think it is supposed to be an apple."},
+    
+    {"key":"name2","content":"Apple"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"An apple."}
+]}

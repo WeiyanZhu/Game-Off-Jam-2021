@@ -1,0 +1,8 @@
+{"textInfos":[
+    {"key":"name","content":"Debugger"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"Automatic debugger that are broken."},
+
+    {"key":"isBugText2","content":"Not a Bug?"},
+    {"key":"description2","content":"I think they are broken. But when all other debuggers are broken, it seems I am the one who is different and \"unnormal\" here."}
+]}

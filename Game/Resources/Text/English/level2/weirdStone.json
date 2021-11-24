@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"???"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"What am I looking at?"},
+
+    {"key":"isBugText2","content":"Bug"},
+    {"key":"description2","content":"It's a stone, maybe?"},
+    
+    {"key":"name2","content":"Stone"},
+    {"key":"isBugText3","content":"Fixed"},
+    {"key":"description3","content":"A lonely stone under the sea. "}
+]}

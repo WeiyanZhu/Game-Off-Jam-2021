@@ -1,0 +1,12 @@
+{"textInfos":[
+    {"key":"name","content":"Bush"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A bush that looks normal. Something grows on it."},
+
+    {"key":"isBugText2","content":"Not a Bug"},
+    {"key":"description2","content":"A bush with berries on it."},
+
+    {"key":"description3","content":"A sad bush with nothing on it."},
+
+    {"key":"eatButton","content":"Eat"}
+]}

@@ -1,0 +1,8 @@
+{"textInfos":[
+    {"key":"name","content":"Turtle"},
+    {"key":"isBugText","content":"???"},
+    {"key":"description","content":"A turtle."},
+
+    {"key":"isBugText2","content":"Not a Bug"},
+    {"key":"description2","content":"A turtle. It is actually moving, just at an extremely low speed."}
+]}
